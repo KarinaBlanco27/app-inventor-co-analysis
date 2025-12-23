@@ -5,12 +5,14 @@ Aplicación móvil desarrollada en MIT App Inventor que visualiza tendencias his
 
 # 🌍 Air Quality Trends Analyzer (2010-2021)
 
-Esta aplicación móvil permite visualizar el comportamiento histórico de contaminantes atmosféricos, específicamente Monóxido de Carbono (CO), analizando patrones estacionales y tendencias a lo largo de una década.
+Esta aplicación móvil permite visualizar el comportamiento histórico de contaminantes atmosféricos, específicamente Monóxido de Carbono (CO), analizando patrones estacionales y tendencias a lo largo de una década, al igual que realiza predicciones de la calidad del aire en años proximos.
 
 ## 🚀 Características Principales
 * **Visualización de Datos:** Gráficas interactivas que muestran la evolución de la contaminación.
-* **Análisis de Estacionalidad:** Identificación de los meses con mayores picos de contaminación (Invierno vs Verano).
+* **Análisis de Estacionalidad:** Identificación de los meses con mayores picos de contaminación.
 * **Dataset Procesado:** Uso de datos reales de estaciones de monitoreo, limpiados y optimizados con Python.
+* **Retroallimentacion con IA:** Analisis de tendencias para realizar predicciones.
+
 
 ## 🛠️ Tecnologías Utilizadas
 * **Frontend:** MIT App Inventor (Interfaz y Lógica de Bloques).
@@ -38,8 +40,7 @@ Se realizó un pre-procesamiento para:
 
 ## 🔧 Instalación y Uso
 1.  Descarga el archivo `.apk` desde la sección de [Releases].
-2.  O importa el proyecto `.aia` en [MIT App Inventor](http://ai2.appinventor.mit.edu/).
-3.  Asegúrate de tener conexión a internet para cargar los datos actualizados.
+2.  Asegúrate de tener conexión a internet para cargar los datos actualizados.
 
 ---
 **Autor:** Karina Yael Blanco Morales
