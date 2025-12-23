@@ -18,8 +18,9 @@ Esta aplicación móvil permite visualizar el comportamiento histórico de conta
 * **Procesamiento de Datos:** Python (Pandas) para limpieza, interpolación y detección de outliers.
 
 ## 📊 Sobre los Datos
-Los datos provienen de mediciones horarias de estaciones de monitoreo entre 2010 y 2021, el dataset utilizado proviene de Eliana Kai Juarez
-**"Mexico Hourly Air Pollution (2010-2021)"**(https://www.kaggle.com/datasets/elianaj/mexico-air-quality-dataset?resource=download&select=stations_daily.csv).
+Los datos provienen de mediciones horarias de estaciones de monitoreo entre 2010 y 2021, el dataset utilizado proviene de Eliana Kai Juarez.
+["Mexico Hourly Air Pollution (2010-2021)"]([http://ai2.appinventor.mit.edu/](https://www.kaggle.com/datasets/elianaj/mexico-air-quality-dataset?resource=download&select=stations_daily.csv))
+
 Se realizó un pre-procesamiento para:
 1.  Eliminar errores de medición (outliers > 50 ppm).
 2.  Calcular promedios mensuales para suavizar tendencias.
